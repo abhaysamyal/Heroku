@@ -20,10 +20,6 @@ pygsheets==2.0.5
 PyMySQL==1.0.2
 pyreadline==2.1
 pytest==6.2.3
-pywin32==227
-pywinpty==0.5.7
-PyYAML==5.4.1
-pyzmq==20.0.0
 QDarkStyle==2.8.1
 QtPy==1.9.0
 rsa==4.7.2
